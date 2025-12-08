@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: devops-training
-        image: my-webapp:1.0
+        image: saibezaw/webapp:01613d15bd7bd1fc72f8e4859218ac010045c428
         ports:
             - name: http
               containerPort: 8080
