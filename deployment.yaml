@@ -34,4 +34,3 @@ spec:
     name: http
   selector:
     app: devops-training
-
